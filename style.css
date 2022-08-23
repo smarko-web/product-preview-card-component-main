@@ -152,7 +152,7 @@ button:hover {
         background: rgba(255, 255, 255, 0.645);   
         border-radius: 0px 0px 20px  20px;
         position: relative;   
-        border: 1px solid black;
+        /* border: 1px solid black; */
     }
     .card .product-info h1 {
         margin: 10px 0 20px 0;
