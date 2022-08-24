@@ -22,6 +22,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Flexbox
+- CSS custom variables
 
 
 ### What I learned
